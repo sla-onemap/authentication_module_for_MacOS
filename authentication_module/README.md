@@ -1,6 +1,6 @@
 ## Synopsis
 
-This Authentication module for Winx64 will help you to retrieve Access Token from One Map 2.0 API.  
+This Authentication module for MacOS will help you to retrieve Access Token from One Map 2.0 API.  
 
 ## Application Example
 
